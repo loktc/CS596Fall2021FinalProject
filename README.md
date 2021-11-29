@@ -13,10 +13,8 @@ Data Set:
 - Souce: Alzheimer's Disease Neuroimaging Initiative (ADNI) from USC's Mark and Mary Stevens Neuroimaging and Informatics Institute 
 
 Cognitive normal vs Alzheimer’s disease:
-
-![](sample1.png)
-
-![](sample2.png)
+![alt text](Sample1.png)
+![alt text](Sample2.png)
 
 Model:
 1. Pytorch
