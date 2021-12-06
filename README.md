@@ -30,7 +30,7 @@ Train the ML model successfully and the estimated success rate of images recogni
 
 ## 6. Implementation:
 
-1. Data cleaning
+1. Data cleaning:
     The row data is divided into two parts: training data set and testing data set. Each part of the data consists of patient's data and normal person's data. For multiple MRI images of the same person, we clean up data and only take dozens of pictures in the middle, so that the difference between CN's pictures and AD's pictures is greater.
 2. Train ML model
 3. Verify the model
