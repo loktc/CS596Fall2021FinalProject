@@ -20,10 +20,16 @@ Our group would like to use deep learning approaches to help detect for early st
 
 ## 4. Model:
 
-1. Pytorch
+1. Pytorch wirh Pydicom package
 2. CNN
+3. IDE: Jupyter
 
 ## 5. Expected Results:
 
 Train the ML model successfully and the estimated success rate of images recognition between normal human brain and Alzheimer’s disease is at least 80%.
 
+## 6. Implementation:
+
+1. Data cleaning
+2. Train ML model
+3. Verify the model
