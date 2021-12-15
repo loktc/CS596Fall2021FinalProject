@@ -1,0 +1,48 @@
+1 GPU, 1000 image samples
+
+Epoch = 0, train loss: 0.257252, train accuracy: 0.75
+Epoch = 1, train loss: 0.047406, train accuracy: 1.0
+Epoch = 2, train loss: 0.018538, train accuracy: 0.9375
+Epoch = 3, train loss: 0.000424, train accuracy: 1.0
+Epoch = 4, train loss: 0.000073, train accuracy: 1.0
+Epoch = 5, train loss: 0.000119, train accuracy: 1.0
+Epoch = 6, train loss: 0.000057, train accuracy: 1.0
+Epoch = 7, train loss: 0.000001, train accuracy: 1.0
+Epoch = 8, train loss: 0.000000, train accuracy: 1.0
+Epoch = 9, train loss: 0.000000, train accuracy: 1.0
+Epoch = 10, train loss: 0.000002, train accuracy: 1.0
+Epoch = 11, train loss: 0.000000, train accuracy: 1.0
+Elapsed time: 124.27061792556196
+Epoch = 0, train loss: 0.423364, train accuracy: 0.875
+Epoch = 1, train loss: 0.017187, train accuracy: 1.0
+Epoch = 2, train loss: 0.000758, train accuracy: 1.0
+Epoch = 3, train loss: 0.093595, train accuracy: 0.8125
+Epoch = 4, train loss: 0.001658, train accuracy: 1.0
+Epoch = 5, train loss: 0.000108, train accuracy: 1.0
+Epoch = 6, train loss: 0.000010, train accuracy: 1.0
+Epoch = 7, train loss: 0.000018, train accuracy: 1.0
+Epoch = 8, train loss: 0.000013, train accuracy: 1.0
+Epoch = 9, train loss: 0.000001, train accuracy: 1.0
+Epoch = 10, train loss: 0.000013, train accuracy: 1.0
+Epoch = 11, train loss: 0.000003, train accuracy: 1.0
+Elapsed time: 128.32563055772334
+
+
+Extra validation for 1000 samples
+Epoch = 0, train loss: 0.742167, train accuracy: 0.625
+Epoch = 1, train loss: 0.654503, train accuracy: 0.8125
+Epoch = 2, train loss: 0.540089, train accuracy: 0.6875
+Epoch = 3, train loss: 0.294829, train accuracy: 1.0
+Epoch = 4, train loss: 0.264874, train accuracy: 0.875
+Epoch = 5, train loss: 0.439394, train accuracy: 0.9375
+Epoch = 6, train loss: 0.173774, train accuracy: 0.9375
+Epoch = 7, train loss: 0.432772, train accuracy: 1.0
+Epoch = 8, train loss: 0.286393, train accuracy: 0.9375
+Epoch = 9, train loss: 0.160439, train accuracy: 0.875
+Epoch = 10, train loss: 0.104734, train accuracy: 1.0
+Epoch = 11, train loss: 0.282586, train accuracy: 0.875
+Epoch = 12, train loss: 0.178404, train accuracy: 1.0
+Epoch = 13, train loss: 0.005470, train accuracy: 1.0
+Epoch = 14, train loss: 0.160353, train accuracy: 1.0
+Elapsed time: 160.4790938794613
+Extra validation, loss: 12.239849, accuracy: 0.2181

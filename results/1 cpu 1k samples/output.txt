@@ -1,0 +1,15 @@
+1 cpu 1k samples
+
+Epoch = 0, train loss: 0.945652, train accuracy: 0.5625
+Epoch = 1, train loss: 0.596627, train accuracy: 0.75
+Epoch = 2, train loss: 0.178535, train accuracy: 0.75
+Epoch = 3, train loss: 0.221793, train accuracy: 0.75
+Epoch = 4, train loss: 0.218328, train accuracy: 0.875
+Epoch = 5, train loss: 0.007137, train accuracy: 1.0
+Epoch = 6, train loss: 0.000218, train accuracy: 1.0
+Epoch = 7, train loss: 0.000397, train accuracy: 1.0
+Epoch = 8, train loss: 0.004657, train accuracy: 1.0
+Epoch = 9, train loss: 0.000438, train accuracy: 1.0
+Epoch = 10, train loss: 0.000160, train accuracy: 1.0
+Epoch = 11, train loss: 0.000142, train accuracy: 1.0
+Elapsed time: 4985.652634338

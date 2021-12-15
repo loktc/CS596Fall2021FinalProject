@@ -1,0 +1,21 @@
+1 gpu with 40k samples. With higher drop out rate and more transformations
+Lower accuracies overall but more generalizable. Needs more epochs for better
+accuracies.
+
+Epoch = 0, train loss: 1.176635, train accuracy: 0.25
+Epoch = 1, train loss: 1.199339, train accuracy: 0.5625
+Epoch = 2, train loss: 1.202041, train accuracy: 0.5
+Epoch = 3, train loss: 1.449295, train accuracy: 0.5
+Epoch = 4, train loss: 1.292033, train accuracy: 0.625
+Epoch = 5, train loss: 1.308800, train accuracy: 0.5
+Epoch = 6, train loss: 1.056483, train accuracy: 0.5625
+Epoch = 7, train loss: 0.862456, train accuracy: 0.5
+Epoch = 8, train loss: 0.905194, train accuracy: 0.6875
+Epoch = 9, train loss: 0.990383, train accuracy: 0.625
+Epoch = 10, train loss: 1.021108, train accuracy: 0.75
+Epoch = 11, train loss: 0.697090, train accuracy: 0.5625
+Epoch = 12, train loss: 1.115346, train accuracy: 0.5625
+Epoch = 13, train loss: 0.755650, train accuracy: 0.5625
+Epoch = 14, train loss: 1.103513, train accuracy: 0.8125
+Elapsed time: 8689.139194533229
+Extra validation, loss: 0.943148, accuracy: 0.693359375
