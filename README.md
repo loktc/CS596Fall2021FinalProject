@@ -57,5 +57,7 @@ The detailed training result shows in the result.
 ## 8. Conclusion and Evaluation 
 
 From the result, we can see that training with two GPU is slower than one GPU.
-The possible reason can be due to different models have different scalability. 
+The possible reason can be 1. Due to different models have different scalability. 
 Different scalability is due to the overhead of weight synchronization.
+2. The batches are too small, all the time is spend in cuda memory allocation.
+
