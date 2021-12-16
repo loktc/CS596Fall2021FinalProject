@@ -12,7 +12,7 @@ Our group would like to use deep learning approaches to help detect for the earl
 
 - Human brain MRI images
 - Main differences between patients and healthy individuals: brain volume
-- Souce: Alzheimer's Disease Neuroimaging Initiative (ADNI) from USC's Mark and Mary Stevens Neuroimaging and Informatics Institute 
+- Source: Alzheimer's Disease Neuroimaging Initiative (ADNI) from USC's Mark and Mary Stevens Neuroimaging and Informatics Institute 
 
 ## 3. Cognitive normal vs Alzheimer’s disease:
 
