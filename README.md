@@ -50,11 +50,11 @@ Train the ML model successfully and the estimated success rate of images recogni
 
 3. Using 2 gpu with 1k samples. Have higher accuracies overall.<img src="2gpuwith1k.png" alt="" style="width:90%">
 
-4. Compare of accuracy for training 12 Epoches. Our model is quite accuracy for training samll amout of data. for larger dataset we may need to change some configuration of our model.<img src="training time.png" alt="" style="width:90%">
+4. Compare of accuracy for training 12 Epoches. Our model is quite accuracy for training samll amout of data. for larger dataset we may need to change some configuration of our model.<img src="trainingAccu.png" alt="" style="width:90%">
 
-5. Compare of time taken for training 12 Epoches in seconds. By comparing using two GPUs and using one of two GPUs we could see that the time cost for two GPUs is higher than using one. This may because our training data load is not big enough. By using multi gpu it become more costing by assign task to multi GPUs instead of one.<img src="trainingAccu.png" alt="" style="width:90%">
+5. Compare of time taken for training 12 Epoches in seconds. By comparing using two GPUs and using one of two GPUs we could see that the time cost for two GPUs is higher than using one. This may because our training data load is not big enough. By using multi gpu it become more costing by assign task to multi GPUs instead of one.<img src="training time.png" alt="" style="width:90%">
 
-The detailed training result shows in the result.
+The detailed training result shows in the result folder.
 
  ## 8. Conclusion and Evaluation 
 
