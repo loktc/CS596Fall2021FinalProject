@@ -30,9 +30,11 @@ Beacause of these benefits, our group would like to use deep learning approaches
 2. Convolutional Neural Network(CNN): 
 - Convolutional neural network is a powerful model for dealing with MR images. We are inspired by some studies to segment the gray matter region during preprocessing and use it as an input of the convolutional neural network. 
 - To detect the Alzheimer's info , we decided to use the Convolutions to extract the related features. The model structure and workflow is as follows,
+
 ![model workflow](model-workflow.png)
+
 3. IDE: Jupyter Notebook
-- Jupyter Notebook is a suitable IDE for us to complete this project since it is convenient for all the group members to see and edit codes. W
+- Jupyter Notebook is a suitable IDE for us to complete this project since it is convenient for all the group members to interact with codes. However, to train model on the server, we still need the normal python file.
 4. USC CARC 
 - We learn how to use CARC from this class, which is used for training the model with parallel GPU and CPU. 
 
