@@ -54,3 +54,8 @@ accuracies.<img src="1gpuwith40k.png" alt="" style="width:90%">
 
 The detailed training result shows in the result.
 
+## 8. Conclusion and Evaluation 
+
+From the result, we can see that training with two GPU is slower than one GPU.
+The possible reason can be due to different models have different scalability. 
+Different scalability is due to the overhead of weight synchronization.
