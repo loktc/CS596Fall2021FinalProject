@@ -46,9 +46,7 @@ Train the ML model successfully and the estimated success rate of images recogni
 ## 7. Result Display:
 1. Using 1 cpu with 1k samples. By using cpu the accuracy is around 0.9 but the elapsed time is really high.<img src="1cpu.png" alt="" style="width:60%">
 
-2. Using 1 gpu with 40k samples. With higher drop out rate and more transformations
-Lower accuracies overall but more generalizable. Needs more epochs for better
-accuracies.<img src="1gpuwith40k.png" alt="" style="width:60%">
+2. Using 1 gpu with 40k samples. With higher drop out rate and more transformations Lower accuracies overall but more generalizable. Needs more epochs for better accuracies.<img src="1gpuwith40k.png" alt="" style="width:60%">
 
 3. Using 2 gpu with 1k samples. Have higher accuracies overall.<img src="2gpuwith1k.png" alt="" style="width:60%">
 
