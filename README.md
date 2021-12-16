@@ -29,6 +29,8 @@ Beacause of these benefits, our group would like to use deep learning approaches
    Pydicom is used to convert the medicial images into the format that PyTorch can be used
 2. CNN
 3. IDE: Jupyter lab
+4. USC CARC 
+   CARC is used for training the model with parallel GPU and CPU
 
 ## 5. Expected Results:
 
