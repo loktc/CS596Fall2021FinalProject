@@ -51,7 +51,9 @@ Lower accuracies overall but more generalizable. Needs more epochs for better
 accuracies.<img src="1gpuwith40k.png" alt="" style="width:60%">
 
 3. Using 2 gpu with 1k samples. Have higher accuracies overall.<img src="2gpuwith1k.png" alt="" style="width:60%">
+
 4. Compare of accuracy for training 12 Epoches<img src="training time.png" alt="" style="width:60%">
+
 5. Compare of time taken for training 12 Epoches in seconds<img src="trainingAccu.png" alt="" style="width:60%">
 
 The detailed training result shows in the result.
