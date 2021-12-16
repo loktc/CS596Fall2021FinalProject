@@ -26,12 +26,13 @@ Beacause of these benefits, our group would like to use deep learning approaches
 ## 4. Model:
 
 1. Pytorch with Pydicom package
-Pydicom is widely used in processing digital imaging in medicine, which is also implemented by us to convert medicial images into the format that PyTorch can be used.
-2. Convolutional Neural Network
-3. IDE: Jupyter Notebook
-We have uploaded the link of codes to the Github
+- Pydicom is widely used in processing digital imaging in medicine, which is also implemented by us to convert medicial images into the format that PyTorch can be used.
+2. Convolutional Neural Network(CNN)
+- Convolutional neural network is a powerful model for dealing with MR images. We are inspired by some studies to segment the gray matter region during preprocessing and use it as an input of the convolutional neural network. 
+3. IDE: Jupyter Notebook 
+Jupyter Notebook is a suitable IDE for us to complete this project since it is convenient for all the group members to see and edit codes. We have uploaded the link of codes to the Github
 4. USC CARC 
-   CARC is used for training the model with parallel GPU and CPU
+- CARC is used for training the model with parallel GPU and CPU
 
 ## 5. Expected Results:
 
