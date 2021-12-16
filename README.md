@@ -26,6 +26,7 @@ Beacause of these benefits, our group would like to use deep learning approaches
 ## 4. Model:
 
 1. Pytorch wirh Pydicom package
+   Pydicom is used to convert the medicial images into the format that PyTorch can be used
 2. CNN
 3. IDE: Jupyter lab
 
