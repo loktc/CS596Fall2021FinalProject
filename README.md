@@ -4,7 +4,7 @@ Zhaopu Chen, Donghao Feng, Zunqi Huang, John Lin, Twinkle Lok, Xinrui Lyu, Siyi 
 
 ## 1. Introduction:
 
-Alzheimer’s disease, the most common form of dementia, has challenged human beings for centurries.  
+Alzheimer’s disease, the most common form of dementia, has challenged human beings for centuries.  
 An early detection would be a great strategy for patients to slow or prevent disease progression.  
 Our group would like to use deep learning approaches to help detect for the early stage of Alzheimer's disease.
 
@@ -22,11 +22,11 @@ Our group would like to use deep learning approaches to help detect for the earl
 
 1. Pytorch wirh Pydicom package
 2. CNN
-3. IDE: Jupyter
+3. IDE: Jupyter lab
 
 ## 5. Expected Results:
 
-Train the ML model successfully and the estimated success rate of images recognition between normal human brain and Alzheimer’s disease is at least 80%.
+Train the ML model successfully and the estimated success rate of images recognition between normal human brain and Alzheimer’s disease is at least 80%. When a random image of brain feed to the model, it can make a decision if this is a healthy person or not.
 
 ## 6. Implementation:
 
