@@ -65,3 +65,5 @@ The possible reason can be
 1. Due to different models have different scalability. Different scalability is due to the overhead of weight synchronization.
 2. The batches are too small, all the time is spend in cuda memory allocation.
 
+ ## Reference
+ 1. Oh, K., Chung, YC., Kim, K.W. et al. Classification and Visualization of Alzheimer’s Disease using Volumetric Convolutional Neural Network and Transfer Learning. Sci Rep 9, 18150 (2019). https://doi.org/10.1038/s41598-019-54548-6
