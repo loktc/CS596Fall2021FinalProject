@@ -29,6 +29,8 @@ Beacause of these benefits, our group would like to use deep learning approaches
 - Pydicom is widely used in processing digital imaging in medicine, which is also implemented by us to convert medicial images into the suitable format for PyTorch.
 2. Convolutional Neural Network(CNN): 
 - Convolutional neural network is a powerful model for dealing with MR images. We are inspired by some studies to segment the gray matter region during preprocessing and use it as an input of the convolutional neural network. 
+- To detect the Alzheimer's info , we decided to use the Convolutions to extract the related features. The model structure and workflow is as follows,
+![model workflow](model-workflow.png)
 3. IDE: Jupyter Notebook
 - Jupyter Notebook is a suitable IDE for us to complete this project since it is convenient for all the group members to see and edit codes. W
 4. USC CARC 
