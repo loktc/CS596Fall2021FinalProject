@@ -32,11 +32,10 @@ Train the ML model successfully and the estimated success rate of images recogni
 
 1. Data cleaning:
     The raw data is divided into three parts: training data set, validation data set and testing data set. Each part of the data consists of patient's data(AD) and normal person's data(CN). For multiple MRI images of the same person, we clean up data and only take 15% of pictures in the middle, so that the difference between CN's pictures and AD's pictures is greater.
-2. Train ML model using 2D-convolutional neural network
-<img src="2dcnn.png" alt="" style="width:45%">
+2. Train ML model using 2D-convolutional neural network <img src="2dcnn.png" alt="" style="width:90%">
 3. Verify the model
 
 ## 7. Result Display:
-<img src="partial training result.JPG" alt="" style="width:45%">
+<img src="partial training result.JPG" alt="" style="width:90%">
 The detailed training result shows in the result.
 
