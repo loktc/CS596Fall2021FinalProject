@@ -4,9 +4,9 @@ Zhaopu Chen, Donghao Feng, Zunqi Huang, John Lin, Twinkle Lok, Xinrui Lyu, Siyi 
 
 ## 1. Introduction:
 
-Alzheimer’s disease, the most common form of dementia, has challenged human beings for century.  
+Alzheimer’s disease, the most common form of dementia, has challenged human beings for centurries.  
 An early detection would be a great strategy for patients to slow or prevent disease progression.  
-Our group would like to use deep learning approaches to help detect for early stage of Alzheimer.
+Our group would like to use deep learning approaches to help detect for the early stage of Alzheimer's disease.
 
 ## 2. Data Set:
 
