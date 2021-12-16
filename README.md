@@ -2,11 +2,16 @@
 Zhaopu Chen, Donghao Feng, Zunqi Huang, John Lin, Twinkle Lok, Xinrui Lyu, Siyi Song
 
 
-## 1. Introduction:
+## 1. Background Introduction:
 
-Alzheimer’s disease, the most common form of dementia, has challenged human beings for centuries.  
-An early detection would be a great strategy for patients to slow or prevent disease progression.  
-Our group would like to use deep learning approaches to help detect for the early stage of Alzheimer's disease.
+Alzheimer’s disease, the most common form of dementia, has challenged human beings for centuries.This disease is a brain disorder that slowly destroys memory and thinking skills and, eventually, the ability to carry out the simplest tasks. In most people with the disease — those with the late-onset type symptoms first appear in their mid-60s.
+An early detection would be a great strategy for patients to slow or prevent disease progression:
+1. Rule Out Reversible and Treatable Causes of Dementia
+2. More Opportunities to Participate in Clinical Trials
+3. Medications Are Often More Effective in Early Alzheimer's
+4. Non-Drug Interventions Can Also Delay and Slow Progression
+
+Beacause of these benefits, our group would like to use deep learning approaches to help detect for the early stage of Alzheimer's disease. The basic idea is that we will use a lot of dcm images of brain to train a model, the model we plan to use is Pytorch. In the end, the expected results is to train the ML model and the estimated success rate of images recognition between normal human brain and Alzheimer’s disease can reach at least 80%.
 
 ## 2. Data Set:
 
